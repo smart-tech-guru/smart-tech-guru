@@ -1,7 +1,40 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm a Senior Fullstack developer with 10 years of web and mobile development experience. </p>
+<p>I am an enthusiastic, detail-oriented, and responsible Senior Full Stack Developer with a passion for clean, maintainable, and scalable code. I specialize in modern web development using cutting-edge technologies to create high-performance applications that enhance business growth and user experience.</p>
+
+<p>With expertise in backend development using Laravel, Node.js, Nest.js, and Django, and frontend frameworks like React.js, Vue.js, Angular, and Svelte.js, I build robust, scalable, and well-tested applications. Unit testing and code quality are my top priorities to ensure long-term maintainability.</p>
+
+<p>
+💡 My Tech Expertise <br/>
+💻 Full Stack Development<br/>
+✔ Frontend: React.js, Next.js, Vue.js, Angular, Svelte.js, Redux.js, Vuex, React Query, TypeScript, Tailwind CSS<br/>
+✔ Backend: PHP, Laravel, Node.js, Express.js, Nest.js, Django, Python<br/>
+✔ Databases: MongoDB, PostgreSQL, MySQL<br/>
+✔ ORMs: Prisma ORM, Sequelize<br/>
+✔ Messaging & Queues: Kafka, RabbitMQ, Redis<br/>
+✔ Infrastructure & DevOps: Kubernetes, Terraform, Docker<br/>
+✔ API Development: RESTful APIs, GraphQL<br/>
+</p>
+
+<p>
+🛠 Workflow & Tools <br/>
+✅ CI/CD, Dockerized Development, Scalable Architecture <br/>
+✅ Git Flow, Bitbucket, Jira, Trello for Agile Project Management<br/>
+✅ Unit Testing & Code Reviews for Maintainability<br/>
+</p>
+
+<p>
+Why Work With Me? <br/>
+✔ I deliver high-quality, scalable, and maintainable solutions tailored to your business needs <br/>
+✔ I ensure clear communication and transparency throughout the project lifecycle <br/>
+✔ I thrive on problem-solving and optimizing applications for performance and scalability <br/>
+</p>
+<p>
+🚀 Let's build something amazing together! Drop me a message, and let's get started.
+</p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
